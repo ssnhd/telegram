@@ -13,7 +13,7 @@
 打开 https://my.telegram.org/auth?to=delete 输入号码注销，再重新注册。
 
 ## 号码被禁
-联系 TG 客服 recover@telegram.org 申请解封，客服不会回复，等待 7 个工作日再试。
+发送邮件向 TG 客服 recover@telegram.org 申诉。客服通常不会回复，建议等待 7 个工作日后再尝试。
 
 ## 官方客服
 recover@telegram.org
