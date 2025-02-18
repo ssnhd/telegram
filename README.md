@@ -3,7 +3,7 @@
 ## 收不到验证码
 - 优先用 iPhone，安卓手机用 [Telegram X](https://apkpure.com/search?q=Telegram+X) （认准开发者叫 `Telegram FZ-LLC`）；
 - 国家区号和手机号可能输错；
-- IP 可能被 TG 标记，更换更干净 IP（IP 使用的人越少越好，优先选手机号码国家路线）；
+- IP 可能被 TG 标记，更换更干净 IP（IP 使用的人越少越好），优先选手机号码对应的国家节点；
 - 重启代理软件。
 
 ## 提示“向已登录的 Telegram 客户端发送验证码”
