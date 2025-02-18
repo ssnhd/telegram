@@ -1,6 +1,7 @@
 # 网友总结 Telegram 常见问题
 
 ## 收不到验证码
+- 国家区号和手机号可能输错
 - 优先用 iPhone，安卓手机用 [Telegram X](https://apkpure.com/search?q=Telegram+X) （认准开发者叫 `Telegram FZ-LLC`）；
 - IP 可能被 TG 标记，建议更换更干净的 IP，优先选择美国、新加坡或日本；
 - 重启代理软件。
