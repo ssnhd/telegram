@@ -1,19 +1,29 @@
 # 网友总结 Telegram 常见问题及解决方案
 
 ## 一、收不到验证码
-- 优先使用 iPhone，安卓用户可尝试 [Telegram X](https://apkpure.com/search?q=Telegram+X)（确保开发者为 Telegram FZ-LLC）。
-- 检查是否输入了正确的国家区号和手机号。
-- 如果 IP 被 Telegram 标记，尝试更换 IP（建议选择使用人数较少的 IP，优先选择与手机号对应国家的节点）。
-- 重启代理软件。
 
-## 二、提示“向已登录的 Telegram 客户端发送验证码”
-- 情况一：如果手机号曾被他人注册过（如 GV 号的前用户注册过 TG，之后号码被谷歌收回并重新分配），可以在验证码页面点击【未收到验证码】后，发送邮件至 Telegram 客服申请注销账号或请求短信验证码登录。
-    - 注：客服不回复，建议等待几个工作日后再尝试。
-- 情况二：如果手机号已在第一部手机上注册 Telegram，但因短信延迟未及时收到验证码，导致在第二部手机上重复注册，请返回第一部手机完成注册。
+- 全局代理、网络稳定、干净 IP（例如家庭 IP，即个人使用，非多人共用）
+- 安卓手机用官方 [Telegram X](https://apkpure.com/cn/telegram-x/org.thunderdog.challegram)（推荐）
+- 苹果手机用官方 [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
+- 检查区号和手机号是否输错
+- 电脑端不支持注册
+
+## 二、向已登录的 Telegram 客户端发送验证码
+
+**情况一**：手机号曾被使用过（例如号码的前用户没保号，被运营商收回并重新放号）。此时，请用安卓手机安装 [Telegram X](https://apkpure.com/cn/telegram-x/org.thunderdog.challegram) 进行登录，若不行则需要联系 Telegram 支持（见底部）。
+
+**情况二**：如果在第一部手机上注册，因 IP 问题未收到短信或短信延迟，当你尝试在第二部手机上注册时会提示“向已登录的 Telegram 客户端发送验证码”。此时，请回到第一部手机操作。
 
 ## 三、提示“号码已绑定账号”
-打开 https://my.telegram.org/auth?to=delete 输入手机号进行注销，然后重新注册。
+
+打开官网 <https://my.telegram.org/auth?to=delete> 输入手机号进行注销，然后重新注册。
 
 ## 四、号码被禁用
 
-发送邮件至 Telegram 客服：recover@telegram.org 进行申诉。
+发送邮件给 Telegram 支持进行申诉。
+
+## 五、Telegram 支持
+
+官方邮件：<recover@telegram.org>
+
+注：任何申诉客服都不回复，等待几个工作日后再试。若仍不行多申诉几次，再不行则无解了。
