@@ -2,7 +2,7 @@
 
 ## 一、收不到验证码
 
-- 全局代理、99% 是 IP 不干净被 TG 标记导致，所以 IP 一定要干净（例如家庭 IP，即个人使用非多人共用）
+- 全局代理，99% 是 IP 不干净被 TG 标记导致，所以 IP 一定要干净（例如家庭 IP，即个人使用非多人共用）
 - 安卓手机用官方 [Telegram X](https://apkpure.com/cn/telegram-x/org.thunderdog.challegram)（推荐）
 - 苹果手机用官方 [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 - 检查区号和手机号是否输错
