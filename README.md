@@ -6,6 +6,7 @@
 - 安卓手机用官方 [Telegram X](https://apkpure.com/cn/telegram-x/org.thunderdog.challegram)（推荐）
 - 苹果手机用官方 [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 - 检查区号和手机号是否输错
+- 卸载 Telegram 重装
 - 电脑端不支持注册
 
 ## 二、向已登录的 Telegram 客户端发送验证码
