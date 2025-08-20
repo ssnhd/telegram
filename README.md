@@ -2,7 +2,7 @@
 
 ## 一、收不到验证码
 
-- 全局代理，99% 是 IP 不干净被 TG 标记导致，所以 IP 一定要干净（例如家庭 IP，即个人使用非多人共用）
+- IP 必须干净（例如家庭 IP，即个人使用非多人共用）
 - 安卓手机用官方 [Telegram X](https://apkpure.com/cn/telegram-x/org.thunderdog.challegram)（推荐）
 - 苹果手机用官方 [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 - 检查区号和手机号是否输错
@@ -17,14 +17,14 @@
 
 ## 三、提示“号码已绑定账号”
 
-打开官网 <https://my.telegram.org/auth?to=delete> 输入手机号进行注销，然后重新注册。
+打开 <https://my.telegram.org/auth?to=delete> 输入手机号进行注销，然后重新注册。
 
 ## 四、号码被禁用
 
-发送邮件给 Telegram 支持进行申诉。
+发送邮件给 Telegram 客服进行申诉。
 
-## 五、Telegram 支持
+## 五、Telegram 客服
 
 官方邮件：<recover@telegram.org>
 
-注：任何申诉客服都不回复，等待几个工作日后再试。若仍不行多申诉几次，再不行则无解了。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)客服都不回复，等待几个工作日后再试。若仍不行多申诉几次，再不行则无解。
