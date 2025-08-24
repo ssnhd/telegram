@@ -9,7 +9,7 @@
 - 卸载 Telegram 重装
 - 电脑端不支持注册
 
-## 情况二、向已登录的 Telegram 客户端发送验证码
+## 情况二、提示“向已登录的 Telegram 客户端发送验证码”
 
 - 手机号曾被使用过（例如号码的前用户没保号，被运营商收回并重新放号）。此时，请用安卓手机安装 [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram) 进行登录，若不行则需要联系 Telegram 支持（见底部）。
 - 如果在第一部手机上注册，因 IP 问题未收到短信或短信延迟，当你尝试在第二部手机上注册时会提示“向已登录的 Telegram 客户端发送验证码”。此时，请回到第一部手机操作。
@@ -22,8 +22,8 @@
 
 发送邮件给 Telegram 客服进行申诉。
 
-## 五、Telegram 客服
+## Telegram 客服
 
-官方邮件：<recover@telegram.org>
+如果号码被禁，需发邮件给官方客服 recover@telegram.org 进行申诉。
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)客服都不回复，等待几个工作日后再试。若仍不行多申诉几次，再不行则无解。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)客服不会回复邮件，建议等待几个工作日后再尝试。可以多次申诉，但如果仍无结果，那就基本没办法了。
