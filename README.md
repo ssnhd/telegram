@@ -3,8 +3,7 @@
 ## 情况一、收不到验证码
 
 - IP 要干净（例如家庭 IP，即个人使用非多人共用）
-- 安卓用 Telegram X：https://play.google.com/store/apps/details?id=org.thunderdog.challegram
-- 苹果用 Telegram：https://apps.apple.com/us/app/telegram-messenger/id686449807
+- 安卓用 [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)，苹果用 [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 - 检查区号和手机号是否输错
 - 卸载 Telegram 重装
 - 电脑端不支持注册
@@ -16,7 +15,7 @@
 
 ## 情况三、提示“号码已绑定账号”
 
-打开 <https://my.telegram.org/auth?to=delete> 输入手机号进行注销，然后重新注册。
+打开[官网](https://my.telegram.org/auth?to=delete)输入手机号进行注销，然后重新注册。
 
 ## 情况四、号码被禁用
 
