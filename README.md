@@ -13,7 +13,7 @@
 
 ## 情况二：提示“向已登录的 Telegram 客户端发送验证码”
 
-- 手机号曾被使用过（例如号码的前用户没保号，被运营商收回并重新放号）。此时，请用安卓手机安装 [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram) 进行登录，若不行则需要联系 Telegram 支持（见底部）。
+- 手机号曾被使用过（例如号码的前用户没保号，被运营商收回并重新放号）。此时，请用安卓手机下载并安装 [Telegram X](https://apkpure.com/cn/telegram-x-app/org.thunderdog.challegram/download) 进行登录/注册，若还是不行则需要联系 Telegram 支持（见底部）。
 - 更换号码，请查看相应手机卡的教程看看是否支持换号。
 
 注：如果在第一部手机上注册因网络问题未收到短信或短信延迟，当你尝试在第二部手机上操作时也会提示“向已登录的 Telegram 客户端发送验证码”。此时，请回到第一部手机上操作。
@@ -27,8 +27,6 @@
 ## 情况四：提示“号码被禁用”
 
 发送邮件给 Telegram 客服进行申诉。
-
-
 
 ## 官方客服
 
