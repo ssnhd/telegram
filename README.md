@@ -12,7 +12,7 @@
 
 手机号曾被使用过，例如前用户没保号，被运营商收回并重新放号。
 
-- 方法一：干净 IP，必须用安卓手机安装 [Telegram X](https://apkpure.com/cn/telegram-x-app/org.thunderdog.challegram/download) 进行登录；
+- 方法一：干净 IP，必须用安卓手机安装 [Telegram X](https://apkpure.com/cn/telegram-x-app/org.thunderdog.challegram/download) 进行登录，登录后可注销，然后再注册/换绑；
 - 方法二：换号码，查看相应手机卡的教程是否支持换号。
 
 ## 提示“号码已绑定账号”
